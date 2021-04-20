@@ -18,9 +18,9 @@ The project uses JavaScript with event listeners to save seats and change their 
 
 ## Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/115338032-a3500080-a1d4-11eb-954b-af109ca635cc.png)
 
-[Demo]()
+[Demo](https://vigorous-brahmagupta-4010e7.netlify.app)
 
 ## Built With
 
